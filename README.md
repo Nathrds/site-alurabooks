@@ -2,7 +2,7 @@
 <hr>
 <br/>
 
-## []()
+## [AluraBooks](https://nathrds.github.io/site-alurabooks/)
 
 Projeto realizado pelo curso html e css da [Alura](https://www.alura.com.br/)
 
@@ -20,4 +20,4 @@ Projeto realizado pelo curso html e css da [Alura](https://www.alura.com.br/)
 
 <br/>
 ## Alurabooks
-Um site do e-commerce AluraBooks, uma livraria online de livros sobre tecnologia.
+> Um site do e-commerce AluraBooks, uma livraria online de livros sobre tecnologia.
