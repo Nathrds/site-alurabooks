@@ -20,3 +20,7 @@ Projeto realizado pelo curso html e css da [Alura](https://www.alura.com.br/)
 
 <br/>
 > Um site do e-commerce AluraBooks, uma livraria online de livros sobre tecnologia.
+
+<br/>
+## QR Code - AluraBooks
+![alurabooks](https://user-images.githubusercontent.com/106173624/201481928-6ca6a470-00b9-4532-89aa-276699210389.png)
